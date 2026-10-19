@@ -1,0 +1,10 @@
+# Generated deployment packages
+*.tar.gz
+*.zip
+
+# Local tooling and operating-system files
+.DS_Store
+node_modules/
+.env
+.env.*
+__pycache__/
